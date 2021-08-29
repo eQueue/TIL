@@ -1,3 +1,4 @@
 # Spring 제어의 역전
 -----------------
 # 제어의 역전 (Inversion Of Control)
+## 제어의 역전이란?
