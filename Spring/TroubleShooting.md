@@ -21,4 +21,4 @@ EclipseProject Folder > .metadata > .plugins > org.eclipse.core.resources > .pro
 
 tomcat > libs에 ojdbc.jar을 붙여넣는다.
 
-##----
+##---------
