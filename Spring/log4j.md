@@ -1,4 +1,4 @@
-# Log4j
+# Log4j. 
 
 ### Log4j 구조
 |  <center>요소</center> |  <center>설명</center> |
