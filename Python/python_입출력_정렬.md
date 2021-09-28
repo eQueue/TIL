@@ -1,4 +1,4 @@
-# Python 단축키/입출력/정렬
+# Python 단축키/입출력/정렬. 
 ### pycharm
 - pycharm 컴파일 && 실행 : alt + shift + f10
 - pycharm 현재 .py 실행 : ctrl + shift + f10
