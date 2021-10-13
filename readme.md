@@ -1,7 +1,7 @@
 # Today I Learned
 
-# ReadMe
-## readme
+## ReadMe
+
 ## ------------
 
 ## 1
